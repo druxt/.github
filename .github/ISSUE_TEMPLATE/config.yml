@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question
+    url: https://discord.druxtjs.org
+    about: The community Discord is the fastest way to get help.
+  - name: Documentation
+    url: https://druxtjs.org
+    about: Tutorials, how-to guides, explanation and API reference.
+  - name: Report a security vulnerability
+    url: https://github.com/druxt/druxt.js/security/advisories/new
+    about: Private disclosure. Please do not open a public issue.
+  - name: Drupal module issues
+    url: https://www.drupal.org/project/issues/druxt
+    about: The Drupal side of Druxt is maintained on drupal.org.

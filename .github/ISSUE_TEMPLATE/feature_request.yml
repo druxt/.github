@@ -1,0 +1,33 @@
+name: Feature request
+description: Suggest something Druxt should be able to do.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feature requests are read and triaged, but the current release line is
+        scoped to stability rather than new features. See
+        [support and versioning](https://druxtjs.org/explanation/support-and-versioning).
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: >
+        What are you trying to do that you cannot do today? Describe the
+        situation rather than the solution you have in mind.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you would like
+      description: How you imagine it working.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What you have tried instead
+      description: Workarounds, other modules, or a custom component.
+    validations:
+      required: false
