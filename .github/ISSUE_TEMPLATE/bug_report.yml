@@ -1,5 +1,5 @@
 name: Bug report
-description: Something behaves differently from how it is documented.
+description: Something does not work the way it should.
 labels: ["bug"]
 body:
   - type: markdown
@@ -37,7 +37,8 @@ body:
         druxt: 0.24.0
         nuxt: 2.17.3
         drupal: 11.4.4
-        node: 16.20.1
+        node: 16.18.1
+        npm: 8.19.2
       render: text
     validations:
       required: true
