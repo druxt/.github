@@ -98,9 +98,11 @@ already maintains, and contributes back to them.
 
 [github.com/druxt-contrib](https://github.com/druxt-contrib) holds integrations
 that sit outside the core framework:
+[CKEditor 5](https://github.com/druxt-contrib/druxt-ckeditor),
+[Config Pages](https://github.com/druxt-contrib/druxt-config-pages),
 [Layout Builder](https://github.com/druxt-contrib/druxt-layout-builder),
 [Layout Paragraphs](https://github.com/druxt-contrib/druxt-layout-paragraphs)
-and [Config Pages](https://github.com/druxt-contrib/druxt-config-pages).
+and [Node Preview](https://github.com/druxt-contrib/druxt-node-preview).
 
 ## Project status
 
